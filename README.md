@@ -1,7 +1,7 @@
 neg-util
 ===================
 
-This is some common functions.
+This is modules for some common functions
 
 Please read ```test\test.js``` for usage.
 
