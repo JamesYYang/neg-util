@@ -1,0 +1,23 @@
+{
+  "name": "neg-util",
+  "version": "0.0.1",
+  "description": "some util function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamesYYang/neg-util"
+  },
+  "keywords": [
+    "newegg",
+    "util"
+  ],
+  "author": "James.Y.Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesYYang/neg-util/issues"
+  },
+  "homepage": "https://github.com/JamesYYang/neg-util"
+}
